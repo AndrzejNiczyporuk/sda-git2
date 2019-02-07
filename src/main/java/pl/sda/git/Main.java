@@ -1,6 +1,6 @@
 package pl.sda.git;
 
-import pl.sda.git.impl.ConcatAction;
+import pl.sda.git.impl.*;
 
 import java.util.*;
 
