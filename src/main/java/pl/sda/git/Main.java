@@ -9,6 +9,8 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("3-ReaplaceBtoAbc", new ReplaceBtoAbcAction());
+		
 	}
 	
 	public static void main(String[] args) {
