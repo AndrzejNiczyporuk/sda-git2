@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("4-AddIfTen", new AddIfTenAction());
 	}
 	
 	public static void main(String[] args) {
