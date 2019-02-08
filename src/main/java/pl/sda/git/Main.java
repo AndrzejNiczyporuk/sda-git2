@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("7-ShowDateIf3", new ShowDateIf3Action());
 	}
 	
 	public static void main(String[] args) {
