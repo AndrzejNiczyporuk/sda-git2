@@ -11,6 +11,7 @@ public class Main {
 		possibleActions.put("concat", new ConcatAction());
 		possibleActions.put("6-Cut3", new Cut3Action());
 		possibleActions.put("7-ShowDateIf3", new ShowDateIf3Action());
+		possibleActions.put("8-ExceptionIf4", new ExceptionIf4Action());
 	}
 	
 	public static void main(String[] args) {
