@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("14-ChcekKO" , new CheckKOAction());
 	}
 	
 	public static void main(String[] args) {
