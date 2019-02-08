@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("17-InvString", new InvStringAction());
 	}
 	
 	public static void main(String[] args) {
