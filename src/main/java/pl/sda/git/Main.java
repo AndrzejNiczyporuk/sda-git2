@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("10-ShowKot", new ShowKotAction());
 	}
 	
 	public static void main(String[] args) {
