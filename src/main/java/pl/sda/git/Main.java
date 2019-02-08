@@ -12,6 +12,7 @@ public class Main {
 		possibleActions.put("6-Cut3", new Cut3Action());
 		possibleActions.put("7-ShowDateIf3", new ShowDateIf3Action());
 		possibleActions.put("8-ExceptionIf4", new ExceptionIf4Action());
+		possibleActions.put("9-ShowACount", new ShowACountAction());
 	}
 	
 	public static void main(String[] args) {
