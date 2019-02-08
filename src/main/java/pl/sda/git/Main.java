@@ -13,6 +13,7 @@ public class Main {
 		possibleActions.put("2-AddNum", new AddNumArgsAction());
 		possibleActions.put("3-ReaplaceBtoAbc", new ReplaceBtoAbcAction());
 		
+		possibleActions.put("4-AddIfTen", new AddIfTenAction());
 	}
 	
 	public static void main(String[] args) {
