@@ -19,4 +19,4 @@ C. Lista akcji do zaimplementowania, ich wynik wyswietli:
 15 jesli zostaly podane 3 elementy (zaloz, ze to liczby) stwórz z nich datę, jesli nie wypisz: nic z tym nie zrobie
 16 zamien wszystkie wpisane znaki na ich kody ascii
 17 zlacz stringi i wypisz od tylu
-18 dodaj do wszystkich argumentow swoj imie
+18 dodaj do wszystkich argumentow nazwe z systemu
