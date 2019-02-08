@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("13-AddAllLengths", new AddAllLengthsAction());
 	}
 	
 	public static void main(String[] args) {
