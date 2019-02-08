@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("16-ConvertToAscii", new ConvertToAsciiAction());
 	}
 	
 	public static void main(String[] args) {
