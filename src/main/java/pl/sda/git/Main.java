@@ -11,6 +11,8 @@ public class Main {
 		possibleActions.put("concat", new ConcatAction());
 		possibleActions.put("1-sort", new SortAlphaAction());
 		possibleActions.put("2-AddNum", new AddNumArgsAction());
+		possibleActions.put("3-ReaplaceBtoAbc", new ReplaceBtoAbcAction());
+		
 	}
 	
 	public static void main(String[] args) {
