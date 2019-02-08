@@ -8,7 +8,7 @@ C. Lista akcji do zaimplementowania, ich wynik wyswietli:
 4 jesli zostalo podanych wiecej niz 10 argumentow dodaj je, jesli mniej pomnoz (wszystkie przez siebie) (jesli jakis argument to litera nie bierz go pod uwage)
 5 dodaj do wszystkich argumentow slowo "java"
 6 jesli element ma wiecej niz 3 litery skroc go do 3 liter
-7 wyswietl aktualna godzine jesli jest wiecej niz 5 argumentow, jesli mniej dzisiejsza data
+7 wyswietl date jesli jest 3 argumenty
 8 wyrzuć wyjatek jesli jest wiecej niz 3 argumentow, jesli mniej wylacz aplikacje
 9 znajdz liczbe elementow ktora maja w sobie litere a
 10 wyswietl wszystkie elementy, ktore maja w sobie slowo kot
