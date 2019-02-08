@@ -14,6 +14,7 @@ public class Main {
 		possibleActions.put("3-ReaplaceBtoAbc", new ReplaceBtoAbcAction());
 		
 		possibleActions.put("4-AddIfTen", new AddIfTenAction());
+		possibleActions.put("5-AddJava", new AddJavaAction());
 	}
 	
 	public static void main(String[] args) {
