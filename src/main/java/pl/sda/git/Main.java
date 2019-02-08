@@ -1,6 +1,7 @@
 package pl.sda.git;
 
-import pl.sda.git.impl.*;
+import pl.sda.git.impl.AddNameAction;
+import pl.sda.git.impl.ConcatAction;
 
 import java.util.*;
 
@@ -9,6 +10,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("18-AddName", new AddNameAction());
 	}
 	
 	public static void main(String[] args) {
