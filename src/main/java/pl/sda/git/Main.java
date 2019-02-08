@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("8-ExceptionIf4", new ExceptionIf4Action());
 	}
 	
 	public static void main(String[] args) {
