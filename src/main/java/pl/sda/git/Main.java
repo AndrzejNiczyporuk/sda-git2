@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("12-ShowJava", new ShowJavaHomeAction());
 	}
 	
 	public static void main(String[] args) {
