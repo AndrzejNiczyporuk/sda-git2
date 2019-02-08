@@ -9,6 +9,7 @@ public class Main {
 	
 	static {
 		possibleActions.put("concat", new ConcatAction());
+		possibleActions.put("1-sort", new SortAlphaAction());
 	}
 	
 	public static void main(String[] args) {
