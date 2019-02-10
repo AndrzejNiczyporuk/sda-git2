@@ -13,6 +13,7 @@ public class Main {
 		possibleActions.put("15-ShowTimeOrDate", new ShowTimeOrDateAction());
 		possibleActions.put("16-ConvertToAscii", new ConvertToAsciiAction());
 		possibleActions.put("17-InvString", new InvStringAction());
+		possibleActions.put("18-AddName", new AddNameAction());
 	}
 	
 	public static void main(String[] args) {
