@@ -21,6 +21,8 @@ public class Main {
 		possibleActions.put("9-ShowACount", new ShowACountAction());
 		possibleActions.put("10-ShowKot", new ShowKotAction());
 		possibleActions.put("11-LengthYesNo", new LengthYesNoAction());
+		possibleActions.put("12-ShowJava", new ShowJavaHomeAction());
+		possibleActions.put("13-AddAllLengths", new AddAllLengthsAction());
 	}
 	
 	public static void main(String[] args) {
