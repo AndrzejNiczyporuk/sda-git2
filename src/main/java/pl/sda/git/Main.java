@@ -12,6 +12,7 @@ public class Main {
 		possibleActions.put("14-ChcekKO" , new CheckKOAction());
 		possibleActions.put("15-ShowTimeOrDate", new ShowTimeOrDateAction());
 		possibleActions.put("16-ConvertToAscii", new ConvertToAsciiAction());
+		possibleActions.put("17-InvString", new InvStringAction());
 	}
 	
 	public static void main(String[] args) {
