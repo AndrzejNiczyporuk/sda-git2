@@ -23,6 +23,11 @@ public class Main {
 		possibleActions.put("11-LengthYesNo", new LengthYesNoAction());
 		possibleActions.put("12-ShowJava", new ShowJavaHomeAction());
 		possibleActions.put("13-AddAllLengths", new AddAllLengthsAction());
+		possibleActions.put("14-ChcekKO" , new CheckKOAction());
+		possibleActions.put("15-ShowTimeOrDate", new ShowTimeOrDateAction());
+		possibleActions.put("16-ConvertToAscii", new ConvertToAsciiAction());
+		possibleActions.put("17-InvString", new InvStringAction());
+		possibleActions.put("18-AddName", new AddNameAction());
 	}
 	
 	public static void main(String[] args) {
