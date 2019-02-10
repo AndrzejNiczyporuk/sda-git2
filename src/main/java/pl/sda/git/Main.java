@@ -10,6 +10,7 @@ public class Main {
 	static {
 		possibleActions.put("concat", new ConcatAction());
 		possibleActions.put("14-ChcekKO" , new CheckKOAction());
+		possibleActions.put("15-ShowTimeOrDate", new ShowTimeOrDateAction());
 	}
 	
 	public static void main(String[] args) {
