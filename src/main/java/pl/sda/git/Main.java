@@ -11,6 +11,7 @@ public class Main {
 		possibleActions.put("concat", new ConcatAction());
 		possibleActions.put("14-ChcekKO" , new CheckKOAction());
 		possibleActions.put("15-ShowTimeOrDate", new ShowTimeOrDateAction());
+		possibleActions.put("16-ConvertToAscii", new ConvertToAsciiAction());
 	}
 	
 	public static void main(String[] args) {
