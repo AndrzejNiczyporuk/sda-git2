@@ -12,13 +12,15 @@ public class Main {
 		possibleActions.put("1-sort", new SortAlphaAction());
 		possibleActions.put("2-AddNum", new AddNumArgsAction());
 		possibleActions.put("3-ReaplaceBtoAbc", new ReplaceBtoAbcAction());
-		
+
 		possibleActions.put("4-AddIfTen", new AddIfTenAction());
 		possibleActions.put("5-AddJava", new AddJavaAction());
 		possibleActions.put("6-Cut3", new Cut3Action());
 		possibleActions.put("7-ShowDateIf3", new ShowDateIf3Action());
 		possibleActions.put("8-ExceptionIf4", new ExceptionIf4Action());
 		possibleActions.put("9-ShowACount", new ShowACountAction());
+		possibleActions.put("10-ShowKot", new ShowKotAction());
+		possibleActions.put("11-LengthYesNo", new LengthYesNoAction());
 	}
 	
 	public static void main(String[] args) {
